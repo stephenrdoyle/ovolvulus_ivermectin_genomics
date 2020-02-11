@@ -1,5 +1,6 @@
 # ovolvulus_ivermectin_genomics
 
+** NOTE: In process of updating this archive - currently incomplete but I'll get to it at some point **
 
 This repository contains data and the analysis workflow for the manuscript "Genome-wide analysis of ivermectin response by *Onchocerca volvulus* reveals that genetic drift and soft selective sweeps contribute to loss of drug sensitivity" published in PLoS NTD in 2017.
 
